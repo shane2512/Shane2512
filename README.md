@@ -12,7 +12,7 @@
 ## 👨💻 About Me
 
 - 🏆 Hackathon Champion: 2× First Prize Winner (CTRL+ALT+HACK 2025, PSG Tech Kriya 25)
-- 🎓 Computer Science @ LICET, Chennai (CGPA: 7.90)[^1]
+- 🎓 Computer Science @ LICET, Chennai (CGPA: 7.90)
 - 🤖 AI \& ML Enthusiast | Special focus on Gen AI, LangChain, RAG models, Deepfake Detection
 - 💪 Building innovative apps \& platforms with Python, TypeScript, and cutting-edge web tech
 - 🔧 Currently working on: **Persona – Your AI Digital Twin**
@@ -21,7 +21,7 @@
 - 💬 Ask me about: *TypeScript, Python, Gen AI, Portfolio building*
 - 💡 Fun Fact: I design anime-inspired portfolios and build digital personas using AI!
 - 📫 Email: shanejoans.27csb@licet.ac.in
-- 📄 [Resume Preview]([See file](https://drive.google.com/file/d/1EWi2Q2ffarRCuEF77_HHAEIaHTtOinYb/view?usp=sharing))
+- 📄 [Resume Preview](https://drive.google.com/file/d/1EWi2Q2ffarRCuEF77_HHAEIaHTtOinYb/view?usp=sharing)
 
 ***
 
@@ -29,26 +29,27 @@
 
 ### 🤖 [Persona – Your AI Digital Twin](https://github.com/shane2512/Persona-Your_AI_Digital_Twin)
 
-Create personalized digital twins using TypeScript and AI/ML, enabling users to interact with their virtual counterpart. Features include real-time data sync and behavioral simulation.[^1]
+Create personalized digital twins using TypeScript and AI/ML, enabling users to interact with their virtual counterpart. Features include real-time data sync and behavioral simulation.
 
 ### ⚔️ [Solo Leveling Portfolio Forge](https://github.com/shane2512/solo-leveling-portfolio-forge)
 
-Anime-inspired personal portfolio website built with React \& TypeScript, boasting interactive effects, 3D-styled visuals, and gaming-themed UI.[^1]
+Anime-inspired personal portfolio website built with React \& TypeScript, boasting interactive effects, 3D-styled visuals, and gaming-themed UI.
 
-### 📁 [Deepfake Detection and Autoencoder reconstruction](https://github.com/shane2512/Deepfake)
+### 📁 [Deepfake Detection and Autoencoder Reconstruction](https://github.com/shane2512/Deepfake)
 
-A secure,ml model to recognize deepfake images and recontruct the original image using autoencoder.[^1]
+A machine learning model to recognize deepfake images and reconstruct the original image using autoencoder.
 
 #### More Noteworthy Projects
 
 - **Student Carpooling Network** — Prototype for campus ride-sharing with cost and traffic reductions.
 - **SMART Signal Management** — Adaptive traffic signals using Deep Learning (YOLOv5).
-- **Injury Detection for Emergencies** — ML model for ambulance first aid, recognizing skin inflammation and foot ulcers.[^1]
+- **Injury Detection for Emergencies** — ML model for ambulance first aid, recognizing skin inflammation and foot ulcers.
 
 ***
 
 ## 💻 Tech Stack
 
+<!-- Badges for major technologies -->
 
 ***
 
@@ -56,7 +57,6 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 
 <p align="left">
   <a href="https://linkedin.com/in/sj1225" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
- 
   <a href="https://stackoverflow.com/users/shane2512" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
   <a href="https://github.com/shane2512" target="blank"><img src="https://img.shields.io/badge/GitHub-shane2512-black?style=for-the-badge&logo=github"></a>
 </p>
@@ -91,8 +91,6 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 
 ***
 
-
-
 ### 🗣️ Certifications
 
 - AI Mastery Bootcamp (Udemy)
@@ -106,7 +104,7 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 <!-- Animated typing effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Machine Learning +Expert;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Machine+Learning+Expert;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ***
@@ -121,7 +119,7 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 
 - Enjoys collaborative hackathon projects and building secure, scalable systems
 - Experience with **deepfake detection**, autoencoders, and secure file-sharing models
-- Loves blending simplicity and advanced tech—*from Streamlit dashboards to anime-themed web UIs*[^2][^1]
+- Loves blending simplicity and advanced tech — *from Streamlit dashboards to anime-themed web UIs*
 
 ***
 
@@ -130,6 +128,4 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 ***
 
 
-
-[^23]: https://xnf.eup.mybluehost.me/taskop-modules/
 
