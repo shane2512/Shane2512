@@ -21,7 +21,7 @@
 - 💬 Ask me about: *TypeScript, Python, Gen AI, Portfolio building*
 - 💡 Fun Fact: I design anime-inspired portfolios and build digital personas using AI!
 - 📫 Email: shanejoans.27csb@licet.ac.in
-- 📄 [Resume Preview](See file)[^1]
+- 📄 [Resume Preview]([See file](https://drive.google.com/file/d/1EWi2Q2ffarRCuEF77_HHAEIaHTtOinYb/view?usp=sharing))
 
 ***
 
