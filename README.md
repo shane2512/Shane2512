@@ -91,13 +91,7 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 
 ***
 
-### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shane2512&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
-***
 
 ### 🗣️ Certifications
 
@@ -112,7 +106,7 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 <!-- Animated typing effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;TypeScript+Expert;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Machine Learning +Expert;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ***
