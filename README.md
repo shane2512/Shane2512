@@ -56,7 +56,7 @@ A secure,ml model to recognize deepfake images and recontruct the original image
 
 <p align="left">
   <a href="https://linkedin.com/in/sj1225" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/shane2512" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
+ 
   <a href="https://stackoverflow.com/users/shane2512" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
   <a href="https://github.com/shane2512" target="blank"><img src="https://img.shields.io/badge/GitHub-shane2512-black?style=for-the-badge&logo=github"></a>
 </p>
