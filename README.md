@@ -11,7 +11,7 @@
 
 ## 👨💻 About Me
 
-- 🏆 Hackathon Champion: 2× First Prize Winner (CTRL+ALT+HACK 2025, PSG Tech Kriya 25)
+- 🏆 Hackathon Champion: 3× Prize Winner
 - 🎓 Computer Science @ LICET, Chennai (CGPA: 7.90)
 - 🤖 AI \& ML Enthusiast | Special focus on Gen AI, LangChain, RAG models, Deepfake Detection
 - 💪 Building innovative apps \& platforms with Python, TypeScript, and cutting-edge web tech
